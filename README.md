@@ -1,4 +1,4 @@
-# Hi, I'm Alausa Olayinka 👋
+# Hi, I'm Alausa "Kido" Olayinka Ismail (AKOI)👋
 
 Full-stack(I like to identify myself as a frontend developer though) web developer focused on building fast, scalable, and maintainable web applications. I enjoy turning ideas into real products, solving complex problems with clean code, and continuously improving my development workflow.
 
